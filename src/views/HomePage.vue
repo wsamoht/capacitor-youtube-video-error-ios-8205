@@ -15,8 +15,8 @@
 
             <div id="container">
                 <iframe
-                    width="560"
-                    height="315"
+                    width="280"
+                    height="158"
                     src="https://www.youtube.com/embed/-5lobdvz4k4?si=HxeihGJb-sYvHx3e"
                     title="YouTube video player"
                     frameborder="0"
