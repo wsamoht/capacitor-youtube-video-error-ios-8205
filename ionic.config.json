@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-youtube-video-error-ios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
