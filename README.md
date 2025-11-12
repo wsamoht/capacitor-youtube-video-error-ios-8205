@@ -9,7 +9,7 @@ npm install
 ionic cap build ios
 ```
 
-Then run in an iOS Simulator.
+Then run in an iOS Simulator and try to play the YT video.
 
 Running with Live Reload works (YouTube doesn't give an error) because the HTTP scheme is `http` vs. `capacitor`. This is why I believe Android works too.
 
